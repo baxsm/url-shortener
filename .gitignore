@@ -2,6 +2,7 @@
 *.pot
 *.pyc
 __pycache__
+.idea
 media
 db.sqlite3
 *.bak 
